@@ -1,5 +1,5 @@
 "use client";
-
+// This is a car rental website header
 import Image from "next/image";
 import { useContext, useEffect, useState } from "react";
 import { useMediaQuery } from "react-responsive";
